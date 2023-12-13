@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # SALT-Challenge
 =======
 # Getting Started
@@ -270,4 +269,3 @@ This application uses Entity Framework Core, which supports various database pro
 
 # License
 This project is licensed under the MIT License.
->>>>>>> c47d1a1d599274c7a32e83a6a1784a69d2a1186c
