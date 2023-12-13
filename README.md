@@ -1,5 +1,3 @@
-# SALT-Challenge
-=======
 # Getting Started
 ### 1. Clone Repository:
 
